@@ -7,6 +7,8 @@ public class Main {
 
         Table.multiplicationTable(5);
         Table.multiplicationTable(3);
+
+        System.out.println(Helper.getGreeting());
     }
 }
 
